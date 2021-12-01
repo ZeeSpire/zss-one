@@ -1,0 +1,134 @@
+---
+layout: post-style-1
+type: post
+title: Is simply dummy text of the printing and typesetting industry
+published: 26 October 2021
+last_modified_at: 16 November 2021
+author: Zee Spire
+keywords: magura, pestera, autumn, october, romania, landscape, mountains
+description: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+categories: travel romania mountains autumn landscape
+featured-image: "/assets/images/posts/0001/full/IMG_20211010_113741.jpg" # full size
+featured-image-top: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 1200
+featured-image-home: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 600
+featured-image-style: full-width # can be left, centered, full-width
+hidden: false # true if hidden from homepage list
+---
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<!-- full width in article image -->
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_113543.jpg" data-fslightbox="gallery">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_113543.webp" 
+            class="img-fluid img-thumbnail" alt="Magura 06" 
+        />
+    </a>
+</div>
+
+#### It was popularised in the 1960s with the release of Letraset
+ 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<!-- gallery -->
+<div class="row mb-4">
+    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0101.jpg" data-fslightbox="gallery">
+            <img 
+                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0101.webp" 
+                class="post-gallery-image img-thumbnail" 
+                alt="Magura 03"
+             />
+        </a>
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0115.jpg" data-fslightbox="gallery">
+            <img 
+                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0115.webp" 
+                class="post-gallery-image img-thumbnail" 
+                alt="Magura 04" 
+            />
+        </a>
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0142.jpg" data-fslightbox="gallery">
+            <img 
+                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0142.webp" 
+                class="post-gallery-image img-thumbnail" 
+                alt="Magura 05" 
+            />
+        </a>
+    </div>
+</div>
+
+#### It was popularised in the 1960s with the release of Letraset
+ 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<!-- full width in article image -->
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_135725.jpg" data-fslightbox="gallery">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_135725.webp" 
+            class="img-fluid img-thumbnail" 
+            alt="Magura 02" 
+        />
+    </a>
+</div>
+ 
+#### It was popularised in the 1960s with the release of Letraset
+ 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+ <div class="ratio ratio-16x9 mb-3">
+    <iframe src="https://www.youtube.com/embed/PpNKnzD_3vo?rel=0" title="YouTube video" allowfullscreen></iframe>
+</div>
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<!-- full width in article image -->
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_130910.jpg" data-fslightbox="gallery">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_130910.webp" 
+            alt="Magura" 
+            class="img-fluid img-thumbnail"
+         />
+    </a>
+</div>
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<!-- full width in article image -->
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211010_113305.jpg" data-fslightbox="gallery">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211010_113305.webp" 
+            class="img-fluid img-thumbnail" 
+            alt="Magura 07"
+         />
+    </a>
+</div>
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            <img 
+                src="{{ site.url }}/assets/images/posts/0001/full/pin1.png" 
+                class="img-fluid img-thumbnail" 
+                alt="Magura Pin 01"
+            />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            <img 
+                src="{{ site.url }}/assets/images/posts/0001/full/pin2.png" 
+                class="img-fluid img-thumbnail" 
+                alt="Magura Pin 02"
+            />
+    </div>
+</div>
