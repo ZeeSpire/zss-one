@@ -55,6 +55,7 @@
 <hr>
 <font size="4"> Initial settings </font>
  <ul>
+    <li>Install Jekyll https://jekyllrb.com/docs/installation/</li> 
     <li>Open _config.yml and customize settings. </li>
     <li>Replace the logo in ./assets/images and size in _config.yml </li>
     <li>Replace favicons in root folder and site.webmanifest. https://favicon.io/favicon-converter/ </li>
