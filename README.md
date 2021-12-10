@@ -6,7 +6,7 @@
 <hr>
 <font size="4">Fully ready for production within minutes</font> 
 <hr>
-<font size="4">Responsive, SEO Friendly and Mobile optimized with GitHub Pages Support</font>
+<font size="4">Responsive, SEO Friendly and Mobile optimized</font>
 <hr>
 <font size="4">Step by step documentation</font>
 <hr>
@@ -33,7 +33,6 @@
     <li>100% Responsive </li>
     <li>Many SEO features; Open Graph protocol; schema.org using Microdata; meta tags </li>
     <li>No dependency on external resources </li>
-    <li>Push on GitHub and it's live </li>
     <li>Track your visitors with Google Tag Manager or Google Analytics integration </li>
     <li>YouTube and other video website support for embeded videos</li>
     <li>Pinterest integration </li>
