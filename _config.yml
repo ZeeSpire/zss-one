@@ -1,9 +1,9 @@
 
 # General settings
-title: "ZeeSpire Software Solutions"
+title: "ZeeSpire One Jekyll Theme"
 email: office@zeespire.com
 description: "Top notch software solutions"
-keywords: "software, java, development, coding"
+keywords: "software, java, development, coding, jekyll, theme, boostrap, responsive, seo"
 url: "https://one.zeespire.com"
 permalink: /:title/
 logo: '/assets/images/logo.png'
