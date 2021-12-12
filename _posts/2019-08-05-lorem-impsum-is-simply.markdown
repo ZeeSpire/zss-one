@@ -1,7 +1,7 @@
 ---
 layout: post-style-1
 type: post
-title: Create a Maven Project with JSP and Servlets in Intellij Idea
+title: Lorem Ipsum is simply
 published: 07 Aug 2019
 last_modified_at: 16 November 2021
 author: Zee Spire

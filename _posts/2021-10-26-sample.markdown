@@ -2,7 +2,7 @@
 layout: post-style-1
 type: post
 title: Is simply dummy text of the printing and typesetting industry
-published: 26 October 2021
+published: 26 Oct 2021
 last_modified_at: 16 November 2021
 author: Zee Spire
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
