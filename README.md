@@ -1,4 +1,4 @@
-<h1> zss one - One theme fits all </h1>
+<h1> ZeeSpire One premium </h1>
 <br>
 <font size="4">Premium theme using Jekyll version 4.1.2 & Bootstrap 5</font>
 <hr>
@@ -90,7 +90,7 @@
 
 <font size="4"> How to host on GitHub pages </font>
 <ul>
-    <li>Create a new repository on GitHub named <your_repo_name>.github.io </li>
+    <li>Create a new repository on GitHub named your_repo_name.github.io </li>
     <li>Build using: build.bat </li>
     <li>Push the project in the new repo. </li>
 </ul>
